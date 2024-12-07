@@ -30,5 +30,9 @@ git add .
 git commit -m "any message"
 git push
 
+second time
+git add .
+git commit -m "any message"
+git push
 
 
